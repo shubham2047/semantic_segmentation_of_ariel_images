@@ -12,6 +12,7 @@ Semantic segmentation of ariel images taken from drone
 * Achieved dice score of 0.796 on the test set.
 * Tools used: Pytorch, OpenCV, Albumentations, Matplotlib, Kaggle Kernels
 
+
 **Kaggle competition link:** https://www.kaggle.com/c/opencv-pytorch-course-segmentation
 
-**run code using:** https://www.kaggle.com/c/opencv-pytorch-course-segmentation/data
+**Dataset download link:** https://www.kaggle.com/c/opencv-pytorch-course-segmentation/data
