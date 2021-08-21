@@ -1,1 +1,1 @@
-# semauntic_segmentation_of_ariel_images
+# semantic_segmentation_of_ariel_images
